@@ -20,11 +20,11 @@ I'm a Data Analytics and Business Intelligence professional passionate about tra
 - Data Integration & Reporting Optimization
 
 ### 📊 Projects
-Coming soon: Power BI dashboards, SQL analysis, Python projects, and workflow automation demonstrations.
+Power BI dashboards, SQL analysis, Python projects, and workflow automation demonstrations.
 
 ### 🎯 Professional Goal
 Building scalable, automated, and data-driven solutions that help organizations make smarter business decisions.
 
 ### 📫 Let's Connect
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/kavyasrimathi/
 - Location: Ontario, Canada
